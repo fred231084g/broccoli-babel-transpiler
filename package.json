@@ -39,7 +39,7 @@
     "broccoli-persistent-filter": "^3.0.0",
     "clone": "^2.1.2",
     "hash-for-dep": "^1.4.7",
-    "heimdalljs": "^0.2.1",
+    "heimdalljs": "^0.3.3",
     "heimdalljs-logger": "^0.1.9",
     "json-stable-stringify": "^1.0.1",
     "rsvp": "^4.8.4",
